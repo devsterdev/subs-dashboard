@@ -10,6 +10,7 @@ function NavigationMenu({
   children,
   viewport = true,
   ...props
+  
 }) {
   return (
     <NavigationMenuPrimitive.Root
