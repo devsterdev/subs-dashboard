@@ -1,0 +1,177 @@
+[
+  {
+    "name": "Vsauce",
+    "uname": "vsauce",
+    "subs": "24M",
+    "description": "Mind-bending science and philosophy",
+    "url": "*"
+  },
+  {
+    "name": "Mark Rober",
+    "uname": "markrober",
+    "subs": "30M",
+    "description": "Engineering made fun",
+    "url": "*"
+  },
+  {
+    "name": "MrBeast",
+    "uname": "mrbeast",
+    "subs": "300M",
+    "description": "Challenges and philanthropy",
+    "url": "*"
+  },
+  {
+    "name": "Linus Tech Tips",
+    "uname": "linustechtips",
+    "subs": "16M",
+    "description": "Tech reviews and PC builds",
+    "url": "*"
+  },
+  {
+    "name": "Kurzgesagt – In a Nutshell",
+    "uname": "kurzgesagt",
+    "subs": "22M",
+    "description": "High-quality animated science videos",
+    "url": "*"
+  },
+  {
+    "name": "MKBHD",
+    "uname": "mkbhd",
+    "subs": "19M",
+    "description": "Tech reviews and insights",
+    "url": "*"
+  },
+  {
+    "name": "PewDiePie",
+    "uname": "pewdiepie",
+    "subs": "111M",
+    "description": "Gaming and commentary",
+    "url": "*"
+  },
+  {
+    "name": "Dream",
+    "uname": "dream",
+    "subs": "30M",
+    "description": "Minecraft speedruns and manhunts",
+    "url": "*"
+  },
+  {
+    "name": "Nerdwriter1",
+    "uname": "nerdwriter",
+    "subs": "3M",
+    "description": "Artistic video essays",
+    "url": "*"
+  },
+  {
+    "name": "Veritasium",
+    "uname": "veritasium",
+    "subs": "15M",
+    "description": "Science and engineering investigations",
+    "url": "*"
+  },
+  {
+    "name": "TheOdd1sOut",
+    "uname": "theodd1sout",
+    "subs": "19M",
+    "description": "Animated stories and comedy",
+    "url": "*"
+  },
+  {
+    "name": "JRE Clips",
+    "uname": "jreclips",
+    "subs": "15M",
+    "description": "Podcast highlights",
+    "url": "*"
+  },
+  {
+    "name": "Dude Perfect",
+    "uname": "dudeperfect",
+    "subs": "61M",
+    "description": "Trick shots and sports entertainment",
+    "url": "*"
+  },
+  {
+    "name": "James Charles",
+    "uname": "jamescharles",
+    "subs": "25M",
+    "description": "Beauty and makeup tutorials",
+    "url": "*"
+  },
+  {
+    "name": "Tasty",
+    "uname": "tasty",
+    "subs": "22M",
+    "description": "Food recipes and cooking tips",
+    "url": "*"
+  },
+  {
+    "name": "Tom Scott",
+    "uname": "tomscott",
+    "subs": "6M",
+    "description": "Educational videos about unusual topics",
+    "url": "*"
+  },
+  {
+    "name": "Marques Brownlee Shorts",
+    "uname": "mkbhdshorts",
+    "subs": "5M",
+    "description": "Short-form tech content",
+    "url": "*"
+  },
+  {
+    "name": "Aphmau",
+    "uname": "aphmau",
+    "subs": "18M",
+    "description": "Minecraft roleplay and storytelling",
+    "url": "*"
+  },
+  {
+    "name": "Ted Ed",
+    "uname": "teded",
+    "subs": "19M",
+    "description": "Animated educational videos",
+    "url": "*"
+  },
+  {
+    "name": "Colin and Samir",
+    "uname": "colinandsamir",
+    "subs": "1M",
+    "description": "Interviews and creator economy content",
+    "url": "*"
+  },
+  {
+    "name": "Good Mythical Morning",
+    "uname": "gmm",
+    "subs": "18M",
+    "description": "Comedy talk show",
+    "url": "*"
+  },
+  {
+    "name": "The Slow Mo Guys",
+    "uname": "slowmoguys",
+    "subs": "14M",
+    "description": "High-speed slow motion videos",
+    "url": "*"
+  },
+  {
+    "name": "ZHC",
+    "uname": "zhc",
+    "subs": "30M",
+    "description": "Art challenges and custom creations",
+    "url": "*"
+  },
+  {
+    "name": "SmarterEveryDay",
+    "uname": "smartereveryday",
+    "subs": "12M",
+    "description": "Science and engineering exploration",
+    "url": "*"
+  },
+  {
+    "name": "Jacksepticeye",
+    "uname": "jacksepticeye",
+    "subs": "30M",
+    "description": "Gaming and comedy",
+    "url": "*"
+  }
+]
