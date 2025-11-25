@@ -6,6 +6,7 @@ import List from "./components/List";
 import SearchElm from "./components/Search";
 import data from "./data/data.json";
 import YouCard from "./components/YouCard";
+import Header from "./Header";
 
 function App() {
   const [query, setQuery] = useState("");
@@ -20,6 +21,7 @@ function App() {
     <>
       <div className="container mx-auto px-50 py-8">
         <Navbar />
+        <Header />
         <SearchElm setQuery={setQuery} />
         <div className="grid grid-cols-2 gap-4">
           {filteredData.map((e) => (
