@@ -5,6 +5,7 @@ import Navbar from "./components/Navbar";
 import List from "./components/List";
 import SearchElm from "./components/Search";
 import data from "./data/data.json";
+import YouCard from "./components/YouCard";
 
 function App() {
   const [query, setQuery] = useState("");
@@ -20,16 +21,10 @@ function App() {
       <div className="container mx-auto px-50 py-8">
         <Navbar />
         <SearchElm setQuery={setQuery} />
-        <div className="grid grid-cols-3 gap-4">
+        <div className="grid grid-cols-2 gap-4">
           {filteredData.map((e) => (
-            <List
-              name={e.name}
-              uname={e.uname}
-              subs={e.subs}
-              description={e.description}
-              url={e.url}
-              key={e.uname}
-            />
+            // <List name={e.name} uname={e.uname} subs={e.subs} description={e.description} url={e.url} key={e.uname}/>
+            <YouCard name={e.name} uname={e.uname} subs={e.subs} description={e.description} url={e.url} key={e.uname}/>
           ))}
         </div>
       </div>

@@ -3,15 +3,6 @@ import pic from '../pic'
 
 const Navbar = () => {
   return (
-    // <div>
-    //   <div className='flex'>
-    //     <img className='w-60 h-50 rounded-full' src={pic.Mypic} />
-    //     <div className='flex flex-col  container  justify-center'>
-    //         <h1 className='text-3xl font-bold'>Youtubers I Have Subscribe to </h1>
-    //         <p className='bg-blue-100 '>This is my page where i m goig to put show my fav youtuber channels</p>
-    //     </div>
-    //   </div>
-    // </div>
 
     <div className="container mx-auto px-4 py-8 border-4">
       <div className="flex flex-col md:flex-row items-center md:items-start gap-6">
