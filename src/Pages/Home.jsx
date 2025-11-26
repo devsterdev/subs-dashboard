@@ -1,9 +1,8 @@
 import React from 'react'
 import { ExternalLink } from 'lucide-react';
 
-const YouCard = ({name, uname, subs, description, url}) => {
 
-
+const Home = ({name, uname, subs, url}) => {
   return (
     <div className="w-[36rem] max-w-full bg-white border-[6px] border-black p-6 flex flex-col sm:flex-row justify-between items-center shadow-[9px_9px_0px_0px_rgba(0,0,0,1)] hover:translate-y-[3px] hover:translate-x-[3px] hover:shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] transition-all gap-5 sm:gap-0">
     <div className="flex gap-5 items-center flex-col sm:flex-row text-center sm:text-left">
@@ -34,4 +33,4 @@ const YouCard = ({name, uname, subs, description, url}) => {
   )
 }
 
-export default YouCard
+export default Home

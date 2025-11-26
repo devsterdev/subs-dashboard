@@ -1,12 +1,14 @@
 import { useState } from "react";
+import {Route, Routes} from 'react-router-dom'
 
 import "./App.css";
 import Navbar from "./components/Navbar";
-import List from "./components/List";
 import SearchElm from "./components/Search";
 import data from "./data/data.json";
-import YouCard from "./components/YouCard";
-import Header from "./Header";
+import Header from "./components/Header";
+import Home from "./Pages/Home";
+import Video from "./Pages/Video";
+import Playlist from "./Pages/Playlist";
 
 function App() {
   const [query, setQuery] = useState("");
@@ -19,14 +21,20 @@ function App() {
 
   return (
     <>
+      <div>
+        {/* <Routes>
+          <Route path="/" element={<Home />}/>
+          <Route path="/video" element={<Video />}/>
+          <Route path="/playlist" element={<Playlist />}/>
+        </Routes> */}
+      </div>
       <div className="container mx-auto px-50 py-8">
-        <Navbar />
         <Header />
+        <Navbar />
         <SearchElm setQuery={setQuery} />
         <div className="grid grid-cols-2 gap-4">
           {filteredData.map((e) => (
-            // <List name={e.name} uname={e.uname} subs={e.subs} description={e.description} url={e.url} key={e.uname}/>
-            <YouCard name={e.name} uname={e.uname} subs={e.subs} description={e.description} url={e.url} key={e.uname}/>
+            <Home name={e.name} uname={e.uname} subs={e.subs} url={e.url} key={e.uname}/>
           ))}
         </div>
       </div>
