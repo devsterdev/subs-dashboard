@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom';
 
 
   const NAV_ITEMS = ['HOME', 'VIDEOS', 'PLAYLIST', 'ABOUT'];
@@ -15,19 +16,25 @@ const Navbar = () => {
             className="text-center font-bold text-lg sm:text-2xl hover:bg-zinc-100 rounded-xl px-2 sm:px-4 py-2 transition-all text-black uppercase"
             style={{ fontFamily: '"Comic Sans MS", "Chalkboard SE", sans-serif' }}
           >
-            Home
+            <Link to={'/'}>
+              Home
+            </Link>
           </button>
         <button 
             className="text-center font-bold text-lg sm:text-2xl hover:bg-zinc-100 rounded-xl px-2 sm:px-4 py-2 transition-all text-black uppercase"
             style={{ fontFamily: '"Comic Sans MS", "Chalkboard SE", sans-serif' }}
           >
-            Video
+            <Link to={'/video'}>
+              Video
+            </Link>
           </button>
         <button 
             className="text-center font-bold text-lg sm:text-2xl hover:bg-zinc-100 rounded-xl px-2 sm:px-4 py-2 transition-all text-black uppercase"
             style={{ fontFamily: '"Comic Sans MS", "Chalkboard SE", sans-serif' }}
           >
-            Playlist
+            <Link to={'/playlist'}>
+              Playlist
+            </Link>
           </button>
       </nav>
     </div>
