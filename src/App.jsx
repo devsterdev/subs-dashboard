@@ -14,7 +14,7 @@ function App() {
     <>
       <div>
       </div>
-      <div className="container mx-auto px-50 py-8">
+      <div className="">
         <Header />
         <Navbar />
         <Routes>

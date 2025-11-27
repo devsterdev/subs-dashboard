@@ -4,7 +4,7 @@ import pic from '../pic'
 const Header = () => {
   return (
 
-    <div className="container mx-auto px-4 py-8 border-4">
+    <div className="container mx-auto px-54 py-16 border-4">
       <div className="flex flex-col md:flex-row items-center md:items-start gap-6">
         <img
           className="w-40 h-40 md:w-60 md:h-60 rounded-full object-cover"
@@ -26,3 +26,5 @@ const Header = () => {
 }
 
 export default Header
+
+// container mx-auto px-50 py-8

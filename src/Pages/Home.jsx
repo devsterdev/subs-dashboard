@@ -15,6 +15,9 @@ const Home = () => {
   );
   return (
     <>
+    <div className="container mx-auto px-50 py-8">
+
+    
 
     <SearchElm setQuery={setQuery} />
 
@@ -55,6 +58,7 @@ const Home = () => {
       </div>
       
        ))}
+       </div>
        </div>
     </>
   );
