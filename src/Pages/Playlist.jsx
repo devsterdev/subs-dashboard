@@ -1,14 +1,25 @@
-import React from 'react'
-import PlaylistCom from '../components/PlaylistCom'
-import PlaylistCom2 from '../components/PlaylistCom2'
+import React from "react";
+import PlaylistCom from "../components/PlaylistCom";
+import playlist from "../data/plalist.json";
 
 const Playlist = () => {
   return (
-    <div className='flex w-250 justify-between m-15'>
-      {/* <PlaylistCom /> */}
-      <PlaylistCom2 />
-    </div>
-  )
-}
+    <>
+      <div className="flex flex-wrap gap-4 w-full justify-center">
+        {playlist.map((e, index) => {
+          return (
+            <PlaylistCom
+              index={index + 1}
+              title={e.title}
+              author={e.author}
+              videos={e.videos}
+              link={e.link}
+            />
+          );
+        })}
+      </div>
+    </>
+  );
+};
 
-export default Playlist
+export default Playlist;

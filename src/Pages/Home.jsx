@@ -27,7 +27,7 @@ const Home = () => {
       <div key={index} className="w-[36rem] max-w-full bg-white border-[6px] border-black p-6 flex flex-col sm:flex-row justify-between items-center shadow-[9px_9px_0px_0px_rgba(0,0,0,1)] hover:translate-y-[3px] hover:translate-x-[3px] hover:shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] transition-all gap-5 sm:gap-0">
         <div className="flex gap-5 items-center flex-col sm:flex-row text-center sm:text-left">
           <img
-            // src={data.pfpUrl}
+            // src={data.pfpUrl} ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
             alt={e.name}
             className="w-24 h-24 border-[3px] border-black object-cover rounded-full"
           />
