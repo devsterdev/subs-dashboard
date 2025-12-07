@@ -1,6 +1,6 @@
 import React from 'react'
-import List from '../components/List'
 import video from "../data/video.json"
+import List from '../components/small components/List'
 
 const Video = () => {
   return (

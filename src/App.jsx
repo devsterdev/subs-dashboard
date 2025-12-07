@@ -1,9 +1,9 @@
 import { useState } from "react";
 import {Route, Routes} from 'react-router-dom'
 
-import "./App.css";
-import Navbar from "./components/Navbar";
-import Header from "./components/Header";
+
+import Navbar from "./components/small components/Navbar"
+import Header from "./components/small components/Header";
 import Home from "./Pages/Home";
 import Video from "./Pages/Video";
 import Playlist from "./Pages/Playlist";

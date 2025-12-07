@@ -1,5 +1,5 @@
 import React from 'react'
-import pic from '../pic'
+import pic from '../../pic'
 
 const Header = () => {
   return (
