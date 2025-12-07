@@ -1,6 +1,7 @@
 import React from "react";
-import playlist from "../data/plalist.json";
-import PlaylistCom from "../components/PlaylistCom";
+import playlist from "../../data/plalist.json"
+import PlaylistCom from "../smallcom/PlaylistCom";
+
 
 const Playlist = () => {
   return (

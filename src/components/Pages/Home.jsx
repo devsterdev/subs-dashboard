@@ -1,7 +1,7 @@
 import React, { useState } from "react";
-import data from "../data/data.json";
-import Subs from "../components/Subs";
-import SearchElm from "../components/Search";
+import data from "../../data/data.json"
+import Subs from "../smallcom/Subs";
+import SearchElm from "../smallcom/Search";
 
 const Home = () => {
   const [query, setQuery] = useState("");

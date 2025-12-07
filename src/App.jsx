@@ -1,11 +1,12 @@
 import { useState } from "react";
 import { Route, Routes } from "react-router-dom";
 
-import Navbar from "./components/Navbar";
-import Header from "./components/Header";
-import Home from "./Pages/Home";
-import Video from "./Pages/Video";
-import Playlist from "./Pages/Playlist";
+
+import Header from "./components/smallcom/Header";
+import Navbar from "./components/smallcom/Navbar";
+import Home from "./components/Pages/Home";
+import Video from "./components/Pages/Video";
+import Playlist from "./components/Pages/Playlist";
 
 function App() {
   return (
