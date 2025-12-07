@@ -1,34 +1,27 @@
 import React, { useState } from "react";
 import data from "../data/data.json";
-import Subs from "../components/small components/Subs";
-
+import Subs from "../components/Subs";
+import SearchElm from "../components/Search";
 
 const Home = () => {
+  const [query, setQuery] = useState("");
 
-  const [query, setQuery] = useState("")
-
-    const filteredData = data.filter(
+  const filteredData = data.filter(
     (item) =>
       item.name.toLowerCase().includes(query.toLowerCase()) ||
       item.uname.toLowerCase().includes(query.toLowerCase())
   );
   return (
     <>
-    <div className="container mx-auto px-50 py-8">
+      <div className="container mx-auto px-50 py-8">
+        <SearchElm setQuery={setQuery} />
 
-    {/* <SearchElm setQuery={setQuery} /> */}
-
-<div className="flex flex-wrap gap-4 w-full justify-center">
-      
-      {filteredData.map((e, index)=>{
-        return(
-            <Subs key={index}/>
-        )
-      })}
-
-      
-       </div>
-       </div>
+        <div className="flex flex-wrap gap-4 w-full justify-center">
+          {filteredData.map((e, index) => {
+            return <Subs key={index} />;
+          })}
+        </div>
+      </div>
     </>
   );
 };
