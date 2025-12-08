@@ -1,177 +1,560 @@
 [
   {
+    "uname": "Vsauce",
     "name": "Vsauce",
-    "uname": "vsauce",
-    "subs": "24M",
-    "description": "Mind-bending science and philosophy",
-    "url": "*"
+    "subs": "24.5M",
+    "numOfVid": 609,
+    "tag": ["education","science","philosophy"],
+    "url": "https://www.youtube.com/@Vsauce",
+    "pfp": "https://yt3.googleusercontent.com/ytc/AIdro_mpYedipdXUXCKkwjQEeFrepFlDHZ0LiczqWeKyG0YmJvA=s160-c-k-c0x00ffffff-no-rj"
   },
   {
-    "name": "Mark Rober",
-    "uname": "markrober",
-    "subs": "30M",
-    "description": "Engineering made fun",
-    "url": "*"
-  },
-  {
-    "name": "MrBeast",
-    "uname": "mrbeast",
-    "subs": "300M",
-    "description": "Challenges and philanthropy",
-    "url": "*"
-  },
-  {
-    "name": "Linus Tech Tips",
-    "uname": "linustechtips",
-    "subs": "16M",
-    "description": "Tech reviews and PC builds",
-    "url": "*"
-  },
-  {
-    "name": "Kurzgesagt – In a Nutshell",
-    "uname": "kurzgesagt",
-    "subs": "22M",
-    "description": "High-quality animated science videos",
-    "url": "*"
-  },
-  {
-    "name": "MKBHD",
-    "uname": "mkbhd",
-    "subs": "19M",
-    "description": "Tech reviews and insights",
-    "url": "*"
-  },
-  {
-    "name": "PewDiePie",
-    "uname": "pewdiepie",
-    "subs": "111M",
-    "description": "Gaming and commentary",
-    "url": "*"
-  },
-  {
-    "name": "Dream",
-    "uname": "dream",
-    "subs": "30M",
-    "description": "Minecraft speedruns and manhunts",
-    "url": "*"
-  },
-  {
-    "name": "Nerdwriter1",
-    "uname": "nerdwriter",
-    "subs": "3M",
-    "description": "Artistic video essays",
-    "url": "*"
-  },
-  {
-    "name": "Veritasium",
     "uname": "veritasium",
-    "subs": "15M",
-    "description": "Science and engineering investigations",
-    "url": "*"
+    "name": "Veritasium",
+    "subs": "19.5M",
+    "numOfVid": 454,
+    "tag": ["science","education","physics"],
+    "url": "https://www.youtube.com/@veritasium",
+    "pfp": "https://yt3.googleusercontent.com/7vCbvtCqtjQ3YLgsJt7Y952MQV1sBvhllSCSxHP8_sVZdcPCBrITfhkN2RdyCuwPnsByq-1GoA=s160-c-k-c0x00ffffff-no-rj"
   },
   {
-    "name": "TheOdd1sOut",
-    "uname": "theodd1sout",
-    "subs": "19M",
-    "description": "Animated stories and comedy",
-    "url": "*"
+    "uname": "RealShubhuuu",
+    "name": "Shubhuuu",
+    "subs": "1.18M",
+    "numOfVid": 60,
+    "tag": ["bloging","fun"],
+    "url": "https://www.youtube.com/@RealShubhuuu",
+    "pfp": "https://yt3.googleusercontent.com/ytc/AIdro_maQx3Tf2IKBEOEARtbVNYRwIlRCKLB8W1oE-5rADThAC8=s160-c-k-c0x00ffffff-no-rj"
   },
   {
-    "name": "JRE Clips",
-    "uname": "jreclips",
-    "subs": "15M",
-    "description": "Podcast highlights",
-    "url": "*"
+    "uname": "MarkRober",
+    "name": "Mark Rober",
+    "subs": "72.2M",
+    "numOfVid": 240,
+    "tag": ["science","engineering","DIY"],
+    "url": "https://www.youtube.com/@MarkRober",
+    "pfp": "https://yt3.googleusercontent.com/ytc/AIdro_ksXY2REjZ6gYKSgnWT5jC_zT9mX900vyFtVinR8KbHww=s160-c-k-c0x00ffffff-no-rj"
   },
   {
-    "name": "Dude Perfect",
-    "uname": "dudeperfect",
-    "subs": "61M",
-    "description": "Trick shots and sports entertainment",
-    "url": "*"
+    "uname": "@MichaelReeves",
+    "name": "Michael Reeves",
+    "subs": "7.69M",
+    "numOfVid": "55",
+    "tag": ["Science", "cool stuff"],
+    "url": "https://www.youtube.com/@MichaelReeves",
+    "pfp": "https://yt3.googleusercontent.com/ytc/AIdro_nA1CW3Etd_zH2e9n5Fa2SgqXm173tL0rHCXaDY0wqRYwI=s160-c-k-c0x00ffffff-no-rj"
   },
   {
-    "name": "James Charles",
-    "uname": "jamescharles",
-    "subs": "25M",
-    "description": "Beauty and makeup tutorials",
-    "url": "*"
+    "uname": "Design.Theory",
+    "name": "Design.Theory",
+    "subs": null,
+    "numOfVid": null,
+    "tag": [],
+    "url": "https://www.youtube.com/@Design.Theory",
+    "pfp": null
   },
   {
-    "name": "Tasty",
-    "uname": "tasty",
-    "subs": "22M",
-    "description": "Food recipes and cooking tips",
-    "url": "*"
+    "uname": "Foodpharmer",
+    "name": "Foodpharmer",
+    "subs": null,
+    "numOfVid": null,
+    "tag": [],
+    "url": "https://www.youtube.com/@Foodpharmer",
+    "pfp": null
   },
   {
-    "name": "Tom Scott",
-    "uname": "tomscott",
-    "subs": "6M",
-    "description": "Educational videos about unusual topics",
-    "url": "*"
+    "uname": "StuffMadeHere",
+    "name": "Stuff Made Here",
+    "subs": null,
+    "numOfVid": null,
+    "tag": [],
+    "url": "https://www.youtube.com/@StuffMadeHere",
+    "pfp": null
   },
   {
-    "name": "Marques Brownlee Shorts",
-    "uname": "mkbhdshorts",
-    "subs": "5M",
-    "description": "Short-form tech content",
-    "url": "*"
+    "uname": "realwillpowerstar",
+    "name": "realwillpowerstar",
+    "subs": null,
+    "numOfVid": null,
+    "tag": [],
+    "url": "https://www.youtube.com/@realwillpowerstar",
+    "pfp": null
   },
   {
-    "name": "Aphmau",
-    "uname": "aphmau",
-    "subs": "18M",
-    "description": "Minecraft roleplay and storytelling",
-    "url": "*"
+    "uname": "somethingcalledcurious",
+    "name": "somethingcalledcurious",
+    "subs": null,
+    "numOfVid": null,
+    "tag": [],
+    "url": "https://www.youtube.com/@somethingcalledcurious",
+    "pfp": null
   },
   {
-    "name": "Ted Ed",
-    "uname": "teded",
-    "subs": "19M",
-    "description": "Animated educational videos",
-    "url": "*"
+    "uname": "mkbhd",
+    "name": "MKBHD",
+    "subs": null,
+    "numOfVid": null,
+    "tag": [],
+    "url": "https://www.youtube.com/@mkbhd",
+    "pfp": null
   },
   {
-    "name": "Colin and Samir",
-    "uname": "colinandsamir",
-    "subs": "1M",
-    "description": "Interviews and creator economy content",
-    "url": "*"
+    "uname": "javascriptmastery",
+    "name": "JavaScript Mastery",
+    "subs": null,
+    "numOfVid": null,
+    "tag": [],
+    "url": "https://www.youtube.com/@javascriptmastery",
+    "pfp": null
   },
   {
-    "name": "Good Mythical Morning",
-    "uname": "gmm",
-    "subs": "18M",
-    "description": "Comedy talk show",
-    "url": "*"
+    "uname": "BeastBoyShub",
+    "name": "BeastBoyShub",
+    "subs": null,
+    "numOfVid": null,
+    "tag": [],
+    "url": "https://www.youtube.com/@BeastBoyShub",
+    "pfp": null
   },
   {
-    "name": "The Slow Mo Guys",
-    "uname": "slowmoguys",
-    "subs": "14M",
-    "description": "High-speed slow motion videos",
-    "url": "*"
+    "uname": "tanmaybhat",
+    "name": "Tanmay Bhat",
+    "subs": null,
+    "numOfVid": null,
+    "tag": [],
+    "url": "https://www.youtube.com/@tanmaybhat",
+    "pfp": null
   },
   {
-    "name": "ZHC",
-    "uname": "zhc",
-    "subs": "30M",
-    "description": "Art challenges and custom creations",
-    "url": "*"
+    "uname": "CGPGrey",
+    "name": "CGP Grey",
+    "subs": null,
+    "numOfVid": null,
+    "tag": [],
+    "url": "https://www.youtube.com/@CGPGrey",
+    "pfp": null
   },
   {
-    "name": "SmarterEveryDay",
-    "uname": "smartereveryday",
-    "subs": "12M",
-    "description": "Science and engineering exploration",
-    "url": "*"
+    "uname": "AndrejKarpathy",
+    "name": "Andrej Karpathy",
+    "subs": null,
+    "numOfVid": null,
+    "tag": [],
+    "url": "https://www.youtube.com/@AndrejKarpathy",
+    "pfp": null
   },
   {
-    "name": "Jacksepticeye",
-    "uname": "jacksepticeye",
-    "subs": "30M",
-    "description": "Gaming and comedy",
-    "url": "*"
+    "uname": "3blue1brown",
+    "name": "3Blue1Brown",
+    "subs": null,
+    "numOfVid": null,
+    "tag": [],
+    "url": "https://www.youtube.com/@3blue1brown",
+    "pfp": null
+  },
+  {
+    "uname": "DanielNaroditskyGM",
+    "name": "DanielNaroditskyGM",
+    "subs": null,
+    "numOfVid": null,
+    "tag": [],
+    "url": "https://www.youtube.com/@DanielNaroditskyGM",
+    "pfp": null
+  },
+  {
+    "uname": "DhruvRatheeVlogs",
+    "name": "DhruvRatheeVlogs",
+    "subs": null,
+    "numOfVid": null,
+    "tag": [],
+    "url": "https://www.youtube.com/@DhruvRatheeVlogs",
+    "pfp": null
+  },
+  {
+    "uname": "reysu",
+    "name": "reysu",
+    "subs": null,
+    "numOfVid": null,
+    "tag": [],
+    "url": "https://www.youtube.com/@reysu",
+    "pfp": null
+  },
+  {
+    "uname": "PewDiePie",
+    "name": "PewDiePie",
+    "subs": null,
+    "numOfVid": null,
+    "tag": [],
+    "url": "https://www.youtube.com/@PewDiePie",
+    "pfp": null
+  },
+  {
+    "uname": "Fireship",
+    "name": "Fireship",
+    "subs": null,
+    "numOfVid": null,
+    "tag": [],
+    "url": "https://www.youtube.com/@Fireship",
+    "pfp": null
+  },
+  {
+    "uname": "MarcinPlaza",
+    "name": "MarcinPlaza",
+    "subs": null,
+    "numOfVid": null,
+    "tag": [],
+    "url": "https://www.youtube.com/@MarcinPlaza",
+    "pfp": null
+  },
+  {
+    "uname": "bogxd",
+    "name": "bogxd",
+    "subs": null,
+    "numOfVid": null,
+    "tag": [],
+    "url": "https://www.youtube.com/@bogxd",
+    "pfp": null
+  },
+  {
+    "uname": "jomakaze",
+    "name": "jomakaze",
+    "subs": null,
+    "numOfVid": null,
+    "tag": [],
+    "url": "https://www.youtube.com/@jomakaze",
+    "pfp": null
+  },
+  {
+    "uname": "piyushgargdev",
+    "name": "piyushgargdev",
+    "subs": null,
+    "numOfVid": null,
+    "tag": [],
+    "url": "https://www.youtube.com/@piyushgargdev",
+    "pfp": null
+  },
+  {
+    "uname": "sammyuri",
+    "name": "sammyuri",
+    "subs": null,
+    "numOfVid": null,
+    "tag": [],
+    "url": "https://www.youtube.com/@sammyuri",
+    "pfp": null
+  },
+  {
+    "uname": "InkboxSoftware",
+    "name": "InkboxSoftware",
+    "subs": null,
+    "numOfVid": null,
+    "tag": [],
+    "url": "https://www.youtube.com/@InkboxSoftware",
+    "pfp": null
+  },
+  {
+    "uname": "sheryians",
+    "name": "sheryians",
+    "subs": null,
+    "numOfVid": null,
+    "tag": [],
+    "url": "https://www.youtube.com/@sheryians",
+    "pfp": null
+  },
+  {
+    "uname": "abdul_bari",
+    "name": "abdul_bari",
+    "subs": null,
+    "numOfVid": null,
+    "tag": [],
+    "url": "https://www.youtube.com/@abdul_bari",
+    "pfp": null
+  },
+  {
+    "uname": "juxtopposed",
+    "name": "juxtopposed",
+    "subs": null,
+    "numOfVid": null,
+    "tag": [],
+    "url": "https://www.youtube.com/@juxtopposed",
+    "pfp": null
+  },
+  {
+    "uname": "BringusStudios",
+    "name": "BringusStudios",
+    "subs": null,
+    "numOfVid": null,
+    "tag": [],
+    "url": "https://www.youtube.com/@BringusStudios",
+    "pfp": null
+  },
+  {
+    "uname": "byteHumi",
+    "name": "byteHumi",
+    "subs": null,
+    "numOfVid": null,
+    "tag": [],
+    "url": "https://www.youtube.com/@byteHumi",
+    "pfp": null
+  },
+  {
+    "uname": "kevkev-70",
+    "name": "kevkev-70",
+    "subs": null,
+    "numOfVid": null,
+    "tag": [],
+    "url": "https://www.youtube.com/@kevkev-70",
+    "pfp": null
+  },
+  {
+    "uname": "etymology_nerd",
+    "name": "etymology_nerd",
+    "subs": null,
+    "numOfVid": null,
+    "tag": [],
+    "url": "https://www.youtube.com/@etymology_nerd",
+    "pfp": null
+  },
+  {
+    "uname": "black_copy",
+    "name": "black_copy",
+    "subs": null,
+    "numOfVid": null,
+    "tag": [],
+    "url": "https://www.youtube.com/@black_copy",
+    "pfp": null
+  },
+  {
+    "uname": "PredictiveHistory",
+    "name": "PredictiveHistory",
+    "subs": null,
+    "numOfVid": null,
+    "tag": [],
+    "url": "https://www.youtube.com/@PredictiveHistory",
+    "pfp": null
+  },
+  {
+    "uname": "hankschannel",
+    "name": "hankschannel",
+    "subs": null,
+    "numOfVid": null,
+    "tag": [],
+    "url": "https://www.youtube.com/@hankschannel",
+    "pfp": null
+  },
+  {
+    "uname": "cneuralnetwork",
+    "name": "cneuralnetwork",
+    "subs": null,
+    "numOfVid": null,
+    "tag": [],
+    "url": "https://www.youtube.com/@cneuralnetwork",
+    "pfp": null
+  },
+  {
+    "uname": "dhruvrathee",
+    "name": "dhruvrathee",
+    "subs": null,
+    "numOfVid": null,
+    "tag": [],
+    "url": "https://www.youtube.com/@dhruvrathee",
+    "pfp": null
+  },
+  {
+    "uname": "Thinketh-",
+    "name": "Thinketh-",
+    "subs": null,
+    "numOfVid": null,
+    "tag": [],
+    "url": "https://www.youtube.com/@Thinketh-",
+    "pfp": null
+  },
+  {
+    "uname": "trippykitchen",
+    "name": "trippykitchen",
+    "subs": null,
+    "numOfVid": null,
+    "tag": [],
+    "url": "https://www.youtube.com/@trippykitchen",
+    "pfp": null
+  },
+  {
+    "uname": "HiteshCodeLab",
+    "name": "HiteshCodeLab",
+    "subs": null,
+    "numOfVid": null,
+    "tag": [],
+    "url": "https://www.youtube.com/@HiteshCodeLab",
+    "pfp": null
+  },
+  {
+    "uname": "oomexperiments",
+    "name": "oomexperiments",
+    "subs": null,
+    "numOfVid": null,
+    "tag": [],
+    "url": "https://www.youtube.com/@oomexperiments",
+    "pfp": null
+  },
+  {
+    "uname": "VarunMayya",
+    "name": "VarunMayya",
+    "subs": null,
+    "numOfVid": null,
+    "tag": [],
+    "url": "https://www.youtube.com/@VarunMayya",
+    "pfp": null
+  },
+  {
+    "uname": "ElectroBOOM",
+    "name": "ElectroBOOM",
+    "subs": null,
+    "numOfVid": null,
+    "tag": [],
+    "url": "https://www.youtube.com/@ElectroBOOM",
+    "pfp": null
+  },
+  {
+    "uname": "ThePrimeTimeagen",
+    "name": "ThePrimeTimeagen",
+    "subs": null,
+    "numOfVid": null,
+    "tag": [],
+    "url": "https://www.youtube.com/@ThePrimeTimeagen",
+    "pfp": null
+  },
+  {
+    "uname": "ramxcodes",
+    "name": "ramxcodes",
+    "subs": null,
+    "numOfVid": null,
+    "tag": [],
+    "url": "https://www.youtube.com/@ramxcodes",
+    "pfp": null
+  },
+  {
+    "uname": "NeonMan",
+    "name": "NeonMan",
+    "subs": null,
+    "numOfVid": null,
+    "tag": [],
+    "url": "https://www.youtube.com/@NeonMan",
+    "pfp": null
+  },
+  {
+    "uname": "mangeshshindeshorts",
+    "name": "mangeshshindeshorts",
+    "subs": null,
+    "numOfVid": null,
+    "tag": [],
+    "url": "https://www.youtube.com/@mangeshshindeshorts",
+    "pfp": null
+  },
+  {
+    "uname": "Shivanshu.Agrawal",
+    "name": "Shivanshu.Agrawal",
+    "subs": null,
+    "numOfVid": null,
+    "tag": [],
+    "url": "https://www.youtube.com/@Shivanshu.Agrawal",
+    "pfp": null
+  },
+  {
+    "uname": "Tsoding",
+    "name": "Tsoding",
+    "subs": null,
+    "numOfVid": null,
+    "tag": [],
+    "url": "https://www.youtube.com/@Tsoding",
+    "pfp": null
+  },
+  {
+    "uname": "talkfootballhd",
+    "name": "talkfootballhd",
+    "subs": null,
+    "numOfVid": null,
+    "tag": [],
+    "url": "https://www.youtube.com/@talkfootballhd",
+    "pfp": null
+  },
+  {
+    "uname": "Markaroni",
+    "name": "Markaroni",
+    "subs": null,
+    "numOfVid": null,
+    "tag": [],
+    "url": "https://www.youtube.com/@Markaroni",
+    "pfp": null
+  },
+  {
+    "uname": "chaiaurcode",
+    "name": "chaiaurcode",
+    "subs": null,
+    "numOfVid": null,
+    "tag": [],
+    "url": "https://www.youtube.com/@chaiaurcode",
+    "pfp": null
+  },
+  {
+    "uname": "harkirat1",
+    "name": "harkirat1",
+    "subs": null,
+    "numOfVid": null,
+    "tag": [],
+    "url": "https://www.youtube.com/@harkirat1",
+    "pfp": null
+  },
+  {
+    "uname": "CleoAbram",
+    "name": "CleoAbram",
+    "subs": null,
+    "numOfVid": null,
+    "tag": [],
+    "url": "https://www.youtube.com/@CleoAbram",
+    "pfp": null
+  },
+  {
+    "uname": "LinusTechTips",
+    "name": "Linus Tech Tips",
+    "subs": null,
+    "numOfVid": null,
+    "tag": [],
+    "url": "https://www.youtube.com/@LinusTechTips",
+    "pfp": null
+  },
+  {
+    "uname": "Mrwhosetheboss",
+    "name": "Mrwhosetheboss",
+    "subs": null,
+    "numOfVid": null,
+    "tag": [],
+    "url": "https://www.youtube.com/@Mrwhosetheboss",
+    "pfp": null
+  },
+  {
+    "uname": "zackdfilms",
+    "name": "zackdfilms",
+    "subs": null,
+    "numOfVid": null,
+    "tag": [],
+    "url": "https://www.youtube.com/@zackdfilms",
+    "pfp": null
+  },
+  {
+    "uname": "PalakPayalvlogs",
+    "name": "PalakPayalvlogs",
+    "subs": null,
+    "numOfVid": null,
+    "tag": [],
+    "url": "https://www.youtube.com/@PalakPayalvlogs",
+    "pfp": null
+  },
+  {
+    "uname": "LabourLawAdvisor",
+    "name": "LabourLawAdvisor",
+    "subs": null,
+    "numOfVid": null,
+    "tag": [],
+    "url": "https://www.youtube.com/@LabourLawAdvisor",
+    "pfp": null
   }
 ]

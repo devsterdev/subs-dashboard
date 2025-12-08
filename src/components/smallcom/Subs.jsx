@@ -1,9 +1,7 @@
 import { Youtube, ExternalLink, Users, Play } from "lucide-react";
 import React, { useState } from "react";
 
-const Subs = () => {
-  const [tags, setTags] = useState(["DSA", "C++", "WebDev"]);
-
+const Subs = ({ name, uname, subs, numOfVid, tag, url, pfp }) => {
   return (
     <>
       <div className="bg-white border-4 border-black shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] rounded-lg overflow-hidden flex flex-col h-125 transform transition-transform hover:-translate-y-1 max-w-sm mx-auto w-90">
@@ -22,8 +20,8 @@ const Subs = () => {
         <div className="p-6 pt-0 flex flex-col items-center flex-grow -mt-12 relative z-10">
           <div className="relative group">
             <img
-              src="https://api.dicebear.com/7.x/avataaars/svg?seed=Felix&backgroundColor=b6e3f4"
-              alt="CodeHelp"
+              src={pfp}
+              alt={name}
               className="w-24 h-24 rounded-full border-4 border-black bg-white object-cover"
             />
             <div className="absolute bottom-0 right-0 bg-red-600 text-white p-1 rounded-full border-2 border-black">
@@ -33,42 +31,45 @@ const Subs = () => {
 
           <div className="text-center mt-4 w-full">
             <h3 className="text-2xl font-black uppercase leading-tight truncate px-2">
-              CodeHelp
+              {name}
             </h3>
 
             <p className="text-gray-600 font-bold text-sm mt-1 mb-3">
-              @LoveBabbar
+              @{uname}
             </p>
 
             <div className="flex justify-center items-center gap-4 my-4 w-full border-y-2 border-black py-3 bg-gray-50">
               <div className="flex flex-col items-center">
                 <Users size={20} strokeWidth={2.5} />
-                <span className="font-bold text-sm">1.2M</span>
+                <span className="font-bold text-sm">{subs}</span>
               </div>
               <div className="w-0.5 h-8 bg-black/20"></div>
               <div className="flex flex-col items-center">
                 <Play size={20} strokeWidth={2.5} />
-                <span className="font-bold text-sm">450</span>
+                <span className="font-bold text-sm">{numOfVid}</span>
               </div>
             </div>
 
             <div className="flex flex-wrap justify-center gap-2 mb-6">
-              <span className="text-xs font-bold border border-black px-2 py-0.5 rounded-md bg-white">
-                #DSA
-              </span>
-              <span className="text-xs font-bold border border-black px-2 py-0.5 rounded-md bg-white">
-                #C++
-              </span>
-              <span className="text-xs font-bold border border-black px-2 py-0.5 rounded-md bg-white">
-                #WebDev
-              </span>
+              {tag.map((e, index) => {
+                return (
+                  <span key={index} className="text-xs font-bold border border-black px-2 py-0.5 rounded-md bg-white">
+                    #{tag[index]}
+                  </span>
+                );
+              })}
             </div>
           </div>
 
           <div className="mt-auto w-full">
-            <button className="w-full py-3 px-6 font-black uppercase tracking-wider border-2 border-black transition-all active:translate-x-1 active:translate-y-1 active:shadow-none flex items-center justify-center gap-2 bg-black text-white shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] hover:bg-gray-900">
+            <a
+              href={url}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="w-full py-3 px-6 font-black uppercase tracking-wider border-2 border-black transition-all active:translate-x-1 active:translate-y-1 active:shadow-none flex items-center justify-center gap-2 bg-black text-white shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] hover:bg-gray-900"
+            >
               Visit Channel <ExternalLink size={18} />
-            </button>
+            </a>
           </div>
         </div>
       </div>

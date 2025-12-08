@@ -18,7 +18,7 @@ const Home = () => {
 
         <div className="flex flex-wrap gap-4 w-full justify-center">
           {filteredData.map((e, index) => {
-            return <Subs key={index} />;
+            return <Subs key={index} name={e.name} uname={e.uname} subs={e.subs} numOfVid={e.numOfVid} tag={e.tag} url={e.url} pfp={e.pfp} />;
           })}
         </div>
       </div>

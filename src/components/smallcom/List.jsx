@@ -1,7 +1,5 @@
 import React from "react";
 import { ExternalLink, Trash2, Youtube } from "lucide-react";
-// import pic from '../pic'
-import pic from "../../pic";
 
 const List = ({ title, channelName, views, thumbnail, url }) => {
   return (
