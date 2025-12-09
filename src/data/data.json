@@ -4,7 +4,7 @@
     "name": "Vsauce",
     "subs": "24.5M",
     "numOfVid": 609,
-    "tag": ["education","science","philosophy"],
+    "tag": ["education", "science", "philosophy"],
     "url": "https://www.youtube.com/@Vsauce",
     "pfp": "https://yt3.googleusercontent.com/ytc/AIdro_mpYedipdXUXCKkwjQEeFrepFlDHZ0LiczqWeKyG0YmJvA=s160-c-k-c0x00ffffff-no-rj"
   },
@@ -13,7 +13,7 @@
     "name": "Veritasium",
     "subs": "19.5M",
     "numOfVid": 454,
-    "tag": ["science","education","physics"],
+    "tag": ["science", "education", "physics"],
     "url": "https://www.youtube.com/@veritasium",
     "pfp": "https://yt3.googleusercontent.com/7vCbvtCqtjQ3YLgsJt7Y952MQV1sBvhllSCSxHP8_sVZdcPCBrITfhkN2RdyCuwPnsByq-1GoA=s160-c-k-c0x00ffffff-no-rj"
   },
@@ -22,7 +22,7 @@
     "name": "Shubhuuu",
     "subs": "1.18M",
     "numOfVid": 60,
-    "tag": ["bloging","fun"],
+    "tag": ["bloging", "fun"],
     "url": "https://www.youtube.com/@RealShubhuuu",
     "pfp": "https://yt3.googleusercontent.com/ytc/AIdro_maQx3Tf2IKBEOEARtbVNYRwIlRCKLB8W1oE-5rADThAC8=s160-c-k-c0x00ffffff-no-rj"
   },
@@ -31,12 +31,12 @@
     "name": "Mark Rober",
     "subs": "72.2M",
     "numOfVid": 240,
-    "tag": ["science","engineering","DIY"],
+    "tag": ["science", "engineering", "DIY"],
     "url": "https://www.youtube.com/@MarkRober",
     "pfp": "https://yt3.googleusercontent.com/ytc/AIdro_ksXY2REjZ6gYKSgnWT5jC_zT9mX900vyFtVinR8KbHww=s160-c-k-c0x00ffffff-no-rj"
   },
   {
-    "uname": "@MichaelReeves",
+    "uname": "MichaelReeves",
     "name": "Michael Reeves",
     "subs": "7.69M",
     "numOfVid": "55",
@@ -46,515 +46,515 @@
   },
   {
     "uname": "Design.Theory",
-    "name": "Design.Theory",
-    "subs": null,
-    "numOfVid": null,
-    "tag": [],
+    "name": "Design Theory",
+    "subs": "700K",
+    "numOfVid": "108",
+    "tag": ["graphic design", "education"],
     "url": "https://www.youtube.com/@Design.Theory",
-    "pfp": null
+    "pfp": "https://yt3.googleusercontent.com/ytc/AIdro_mmFSS2cAd4LdRJh9ciaIzjALeecdyyWXrIosmniOodbHs=s160-c-k-c0x00ffffff-no-rj"
   },
   {
     "uname": "Foodpharmer",
-    "name": "Foodpharmer",
-    "subs": null,
-    "numOfVid": null,
-    "tag": [],
+    "name": "Food Pharmer",
+    "subs": "1.53M",
+    "numOfVid": "318",
+    "tag": ["food awareness", "health", "consumer education"],
     "url": "https://www.youtube.com/@Foodpharmer",
-    "pfp": null
+    "pfp": "https://yt3.googleusercontent.com/xbLyEjIu4jmexTH9GdkW2Mml-XbDldX2FyOrsUFpYwiVlRAuwGCanJLhdjfs7CNYjVZXWSiEuA=s160-c-k-c0x00ffffff-no-rj"
   },
   {
     "uname": "StuffMadeHere",
     "name": "Stuff Made Here",
-    "subs": null,
-    "numOfVid": null,
-    "tag": [],
+    "subs": "4.71M",
+    "numOfVid": "38",
+    "tag": ["engineering", "inventions"],
     "url": "https://www.youtube.com/@StuffMadeHere",
-    "pfp": null
+    "pfp": "https://yt3.googleusercontent.com/ytc/AIdro_mzfzJ9E1WEzyt1YlPXemHOwGBBnVCKzXva_mzmS5qqMg=s160-c-k-c0x00ffffff-no-rj"
   },
   {
     "uname": "realwillpowerstar",
-    "name": "realwillpowerstar",
-    "subs": null,
-    "numOfVid": null,
-    "tag": [],
+    "name": "The WillPower Star",
+    "subs": "2.65M",
+    "numOfVid": "25",
+    "tag": ["motivation", "self improvement", "mindset"],
     "url": "https://www.youtube.com/@realwillpowerstar",
-    "pfp": null
+    "pfp": "https://yt3.googleusercontent.com/ytc/AIdro_mRcYhzGr2q4ldpSH3WY6Mdcnzu0MvZAmUWJIPkVLHvYsc=s160-c-k-c0x00ffffff-no-rj"
   },
   {
     "uname": "somethingcalledcurious",
-    "name": "somethingcalledcurious",
-    "subs": null,
-    "numOfVid": null,
-    "tag": [],
+    "name": "Something Called CURIOUS",
+    "subs": "148K",
+    "numOfVid": "60",
+    "tag": ["curiosity", "philosophy"],
     "url": "https://www.youtube.com/@somethingcalledcurious",
-    "pfp": null
+    "pfp": "https://yt3.googleusercontent.com/kK7kHlXBigbNXcBQODG5x-PsySO_FbwDSJh_nh4NprkVFh43QLmca0-f0PvwbJiwMAqbwIA1TLM=s160-c-k-c0x00ffffff-no-rj"
   },
   {
     "uname": "mkbhd",
-    "name": "MKBHD",
-    "subs": null,
-    "numOfVid": null,
-    "tag": [],
+    "name": "Marques Brownlee",
+    "subs": "20.6M",
+    "numOfVid": "1.7K",
+    "tag": ["technology", "reviews", "gadgets"],
     "url": "https://www.youtube.com/@mkbhd",
-    "pfp": null
+    "pfp": "https://yt3.googleusercontent.com/qu4TmIaYUlS41-dJ9gZ7DUR3nilvmB5_11i6OKSdvNnBNiyOusZP1bMN6ICnuxtjFBb6ioKgRQ=s160-c-k-c0x00ffffff-no-rj"
   },
   {
     "uname": "javascriptmastery",
     "name": "JavaScript Mastery",
-    "subs": null,
-    "numOfVid": null,
-    "tag": [],
+    "subs": "1.2M",
+    "numOfVid": "187",
+    "tag": ["programming", "javascript", "web development"],
     "url": "https://www.youtube.com/@javascriptmastery",
-    "pfp": null
+    "pfp": "https://yt3.googleusercontent.com/ek0JxMA0h1uXpnYKFL_dYo1ny3LWzAuLwGvaqQwb9Qh2oEQJIPNEPjDrY9yKsvMmIrq_Ooq_=s160-c-k-c0x00ffffff-no-rj"
   },
   {
     "uname": "BeastBoyShub",
     "name": "BeastBoyShub",
-    "subs": null,
-    "numOfVid": null,
-    "tag": [],
+    "subs": "7.04M",
+    "numOfVid": "1.9K",
+    "tag": ["gaming"],
     "url": "https://www.youtube.com/@BeastBoyShub",
-    "pfp": null
+    "pfp": "https://yt3.googleusercontent.com/kKLvEl3-qLD8tS8uy7CXR0nZRNg41Tr0E6iZ5erM7FCdXyCvWfijBGz-jfn3Sm_bBGFc8BFpieU=s160-c-k-c0x00ffffff-no-rj"
   },
   {
     "uname": "tanmaybhat",
     "name": "Tanmay Bhat",
-    "subs": null,
-    "numOfVid": null,
-    "tag": [],
+    "subs": "5.26M",
+    "numOfVid": "1.6K",
+    "tag": ["comedy", "commentary"],
     "url": "https://www.youtube.com/@tanmaybhat",
-    "pfp": null
+    "pfp": "https://yt3.googleusercontent.com/kbO4TsJR2jjvQJb3NCo6n4Tyhi54sMgNYvc9WZuRKnmZPxVd6N0altmFS4uZOdYrZ2lecuJQNg=s160-c-k-c0x00ffffff-no-rj"
   },
   {
     "uname": "CGPGrey",
     "name": "CGP Grey",
-    "subs": null,
-    "numOfVid": null,
-    "tag": [],
+    "subs": "6.89M",
+    "numOfVid": "195",
+    "tag": ["education", "explainer", "animation"],
     "url": "https://www.youtube.com/@CGPGrey",
-    "pfp": null
+    "pfp": "https://yt3.googleusercontent.com/ytc/AIdro_nxrDGcxMGo8yKf2_Dw0eaGEWj39IAIdZQjAuz-_mBHjUI=s160-c-k-c0x00ffffff-no-rj"
   },
   {
     "uname": "AndrejKarpathy",
     "name": "Andrej Karpathy",
-    "subs": null,
-    "numOfVid": null,
-    "tag": [],
+    "subs": "1.16M",
+    "numOfVid": "17",
+    "tag": ["artificial intelligence", "deep learning", "programming"],
     "url": "https://www.youtube.com/@AndrejKarpathy",
-    "pfp": null
+    "pfp": "https://yt3.googleusercontent.com/ytc/AIdro_nDvyq2NoPL626bk1IbxQ94SfQsD-B0qgZchghtQNkLWoEz=s160-c-k-c0x00ffffff-no-rj"
   },
   {
     "uname": "3blue1brown",
     "name": "3Blue1Brown",
-    "subs": null,
-    "numOfVid": null,
-    "tag": [],
+    "subs": "7.93M",
+    "numOfVid": "225",
+    "tag": ["mathematics", "visualization", "education"],
     "url": "https://www.youtube.com/@3blue1brown",
-    "pfp": null
+    "pfp": "https://yt3.googleusercontent.com/ytc/AIdro_nFzZFPLxPZRHcE3SSwzdrbuWqfoWYwLAu0_2iO6blQYAU=s160-c-k-c0x00ffffff-no-rj"
   },
   {
     "uname": "DanielNaroditskyGM",
-    "name": "DanielNaroditskyGM",
+    "name": "Daniel Naroditsky",
     "subs": null,
     "numOfVid": null,
-    "tag": [],
+    "tag": ["chess", "strategy"],
     "url": "https://www.youtube.com/@DanielNaroditskyGM",
     "pfp": null
   },
   {
     "uname": "DhruvRatheeVlogs",
-    "name": "DhruvRatheeVlogs",
-    "subs": null,
-    "numOfVid": null,
-    "tag": [],
+    "name": "Dhruv Rathee Vlogs",
+    "subs": "3.42M",
+    "numOfVid": "225",
+    "tag": ["vlogs", "travel", "lifestyle"],
     "url": "https://www.youtube.com/@DhruvRatheeVlogs",
-    "pfp": null
+    "pfp": "https://yt3.googleusercontent.com/ytc/AIdro_klgvZS3LdOlpIBdznBEu5HN4pLP_IpOpGizLu6c7t2Tc8=s160-c-k-c0x00ffffff-no-rj"
   },
   {
     "uname": "reysu",
-    "name": "reysu",
-    "subs": null,
-    "numOfVid": null,
-    "tag": [],
+    "name": "Reysu",
+    "subs": "214K",
+    "numOfVid": "101",
+    "tag": ["productivity"],
     "url": "https://www.youtube.com/@reysu",
-    "pfp": null
+    "pfp": "https://yt3.googleusercontent.com/c3dVgvTxIqpvRWjeQwWG-0FSUUoKHrKf8Dhk0tyCOGQOGSdHfapvxHdlS8msmQQhb-XnIkj5=s160-c-k-c0x00ffffff-no-rj"
   },
   {
     "uname": "PewDiePie",
     "name": "PewDiePie",
-    "subs": null,
-    "numOfVid": null,
-    "tag": [],
+    "subs": "110M",
+    "numOfVid": "4.6K",
+    "tag": ["vlog", "tech"],
     "url": "https://www.youtube.com/@PewDiePie",
-    "pfp": null
+    "pfp": "https://yt3.googleusercontent.com/vik8mAiwHQbXiFyKfZ3__p55_VBdGvwxPpuPJBBwdbF0PjJxikXhrP-C3nLQAMAxGNd_-xQCIg=s160-c-k-c0x00ffffff-no-rj"
   },
   {
     "uname": "Fireship",
     "name": "Fireship",
-    "subs": null,
-    "numOfVid": null,
-    "tag": [],
+    "subs": "4.06M",
+    "numOfVid": "777",
+    "tag": ["tech news"],
     "url": "https://www.youtube.com/@Fireship",
-    "pfp": null
+    "pfp": "https://yt3.googleusercontent.com/ytc/AIdro_mKzklyPPhghBJQH5H3HpZ108YcE618DBRLAvRUD1AjKNw=s160-c-k-c0x00ffffff-no-rj"
   },
   {
     "uname": "MarcinPlaza",
-    "name": "MarcinPlaza",
-    "subs": null,
-    "numOfVid": null,
-    "tag": [],
+    "name": "Marcin Plaza",
+    "subs": "418K",
+    "numOfVid": "124",
+    "tag": ["cool stuff", "gadgets"],
     "url": "https://www.youtube.com/@MarcinPlaza",
-    "pfp": null
+    "pfp": "https://yt3.googleusercontent.com/ytc/AIdro_kB-JwjQbuR19VkcMTpyzFZ3loiIZHZV9b8DOSMxDOj7ZDM=s160-c-k-c0x00ffffff-no-rj"
   },
   {
     "uname": "bogxd",
-    "name": "bogxd",
-    "subs": null,
-    "numOfVid": null,
-    "tag": [],
+    "name": "Bog",
+    "subs": "491K",
+    "numOfVid": "305",
+    "tag": ["entertainment", "experience"],
     "url": "https://www.youtube.com/@bogxd",
-    "pfp": null
+    "pfp": "https://yt3.googleusercontent.com/R5ETJ2TjSi61fNkFbXuxc2n4bEMv92Evt9oFOIsmxpiJeBpQCtjfJeLznOEZQ7QQbZ5zg80Y=s160-c-k-c0x00ffffff-no-rj"
   },
   {
     "uname": "jomakaze",
-    "name": "jomakaze",
-    "subs": null,
-    "numOfVid": null,
-    "tag": [],
+    "name": "Joma Tech",
+    "subs": "2.35M",
+    "numOfVid": "89",
+    "tag": ["programming", "tech humor"],
     "url": "https://www.youtube.com/@jomakaze",
-    "pfp": null
+    "pfp": "https://yt3.googleusercontent.com/ytc/AIdro_mG4JmFXvsedWCpp7tU-Nh-k_XuArgDd4U4_EJZpPjlYg=s160-c-k-c0x00ffffff-no-rj"
   },
   {
     "uname": "piyushgargdev",
-    "name": "piyushgargdev",
-    "subs": null,
-    "numOfVid": null,
-    "tag": [],
+    "name": "Piyush Garg",
+    "subs": "336K",
+    "numOfVid": "508",
+    "tag": ["web development", "programming", "education"],
     "url": "https://www.youtube.com/@piyushgargdev",
-    "pfp": null
+    "pfp": "https://yt3.googleusercontent.com/3acddexuFlA5yKRS2--11NeqhCiik-0cntUPjk_QjlsA4ScmQUPWNmeBLweVUQjWXTCLT26lsw=s160-c-k-c0x00ffffff-no-rj"
   },
   {
     "uname": "sammyuri",
     "name": "sammyuri",
-    "subs": null,
-    "numOfVid": null,
-    "tag": [],
+    "subs": "147K",
+    "numOfVid": "6",
+    "tag": ["minecraft", "red stone"],
     "url": "https://www.youtube.com/@sammyuri",
-    "pfp": null
+    "pfp": "https://yt3.googleusercontent.com/AvuNOJFjTYfBym5XQr8qAlclMwb8U-kegSOKY8XauC0PbxHmsnKKZXRKdct2YL1J_hFwowA2wg=s160-c-k-c0x00ffffff-no-rj"
   },
   {
     "uname": "InkboxSoftware",
-    "name": "InkboxSoftware",
-    "subs": null,
-    "numOfVid": null,
-    "tag": [],
+    "name": "Inkbox",
+    "subs": "192K",
+    "numOfVid": "59",
+    "tag": ["software development", "startups", "tech"],
     "url": "https://www.youtube.com/@InkboxSoftware",
-    "pfp": null
+    "pfp": "https://yt3.googleusercontent.com/_Yjh97HT8P2j3fPE8WSzMXEABdFM7JgBvxqcknWHNjP2pWKP4aOIsWND23O2s-34QHgpqtgkBg=s160-c-k-c0x00ffffff-no-rj"
   },
   {
     "uname": "sheryians",
-    "name": "sheryians",
-    "subs": null,
-    "numOfVid": null,
+    "name": "Sheryians Coding School",
+    "subs": "610K",
+    "numOfVid": "578",
     "tag": [],
     "url": "https://www.youtube.com/@sheryians",
-    "pfp": null
+    "pfp": "https://yt3.googleusercontent.com/t8z86Svc4diX-k6VHCZ7AY0EFgVin91qLZigPwJLnavVaB0YPa0etWa-c7bG1BUEcbB4U4im=s160-c-k-c0x00ffffff-no-rj"
   },
   {
     "uname": "abdul_bari",
-    "name": "abdul_bari",
-    "subs": null,
-    "numOfVid": null,
-    "tag": [],
+    "name": "Abdul Bari",
+    "subs": "1.25M",
+    "numOfVid": "116",
+    "tag": ["data structures", "algorithms", "computer science"],
     "url": "https://www.youtube.com/@abdul_bari",
-    "pfp": null
+    "pfp": "https://yt3.googleusercontent.com/ytc/AIdro_mp0uj33BBfZ18_r1ZZxHHXMrfCvrVUzMmhe8tj7BAqlQ=s160-c-k-c0x00ffffff-no-rj"
   },
   {
     "uname": "juxtopposed",
-    "name": "juxtopposed",
-    "subs": null,
-    "numOfVid": null,
-    "tag": [],
+    "name": "Juxtopposed",
+    "subs": "439K",
+    "numOfVid": "41",
+    "tag": ["web design", "UI/UX", "frontend"],
     "url": "https://www.youtube.com/@juxtopposed",
-    "pfp": null
+    "pfp": "https://yt3.googleusercontent.com/4jpdODYSW1c4q03iKQ1hNEjzP_EtxvMurwcBeoSVtl8AStSBmQEnE13W1BA6GPIBsdDsxYmvZQo=s160-c-k-c0x00ffffff-no-rj"
   },
   {
     "uname": "BringusStudios",
-    "name": "BringusStudios",
-    "subs": null,
-    "numOfVid": null,
-    "tag": [],
+    "name": "Bringus Studios",
+    "subs": "855K",
+    "numOfVid": "142",
+    "tag": ["fun stuff", "builds"],
     "url": "https://www.youtube.com/@BringusStudios",
-    "pfp": null
+    "pfp": "https://yt3.googleusercontent.com/0pxwLF0K_vQ8587i7eZ0KNZj7KlsJaCqOxV0fm594K85IxJDWnneqarCj3kgMxiXzY1TGOBA6Q=s160-c-k-c0x00ffffff-no-rj"
   },
   {
     "uname": "byteHumi",
-    "name": "byteHumi",
-    "subs": null,
-    "numOfVid": null,
-    "tag": [],
+    "name": "HUMI",
+    "subs": "94",
+    "numOfVid": "1",
+    "tag": ["programming", "LLM"],
     "url": "https://www.youtube.com/@byteHumi",
-    "pfp": null
+    "pfp": "https://yt3.googleusercontent.com/sT-r6FXHAVM7Z0CxnTU9JqwSqUPiNd8F5uygGrVUwpnm2s2OBwT_L0fkMGqaIDIiOjQU7yrGhA=s160-c-k-c0x00ffffff-no-rj"
   },
   {
     "uname": "kevkev-70",
-    "name": "kevkev-70",
-    "subs": null,
-    "numOfVid": null,
-    "tag": [],
+    "name": "kavan",
+    "subs": "100K",
+    "numOfVid": "8",
+    "tag": ["programming", "crazy build"],
     "url": "https://www.youtube.com/@kevkev-70",
-    "pfp": null
+    "pfp": "https://yt3.googleusercontent.com/rf3Ge8eXxLnhneF08-qga_IXxwQOe-Ub93D8Bf6UIDqc5jwt-E38pG9E3VxLgwfVjYTLwBmHBw=s160-c-k-c0x00ffffff-no-rj"
   },
   {
     "uname": "etymology_nerd",
-    "name": "etymology_nerd",
-    "subs": null,
-    "numOfVid": null,
-    "tag": [],
+    "name": "Etymology Nerd",
+    "subs": "680K",
+    "numOfVid": "542",
+    "tag": ["language", "word origins", "education"],
     "url": "https://www.youtube.com/@etymology_nerd",
-    "pfp": null
+    "pfp": "https://yt3.googleusercontent.com/17mOxaShPoloO0M87oGBheHAHs0ldErn0woM1IItKvP_ZmNAsqH8SMnEdY806IoMH7CY8MB8Rg=s160-c-k-c0x00ffffff-no-rj"
   },
   {
     "uname": "black_copy",
-    "name": "black_copy",
-    "subs": null,
-    "numOfVid": null,
-    "tag": [],
+    "name": "Black Copy",
+    "subs": "9",
+    "numOfVid": "3",
+    "tag": ["my channel", "animation"],
     "url": "https://www.youtube.com/@black_copy",
-    "pfp": null
+    "pfp": "https://yt3.googleusercontent.com/n4m29GXif_4mSxwn8ePo6rBgXTB_W2XGM8zQtLVzkKAEbZ1aCpdVnNQEfO-CJ2O0d1sZqaIPFQ=s160-c-k-c0x00ffffff-no-rj"
   },
   {
     "uname": "PredictiveHistory",
-    "name": "PredictiveHistory",
-    "subs": null,
-    "numOfVid": null,
-    "tag": [],
+    "name": "Predictive History",
+    "subs": "905K",
+    "numOfVid": "109",
+    "tag": ["history", "future scenarios", "education"],
     "url": "https://www.youtube.com/@PredictiveHistory",
-    "pfp": null
+    "pfp": "https://yt3.googleusercontent.com/ytc/AIdro_nOWe4S6b29fbPkg93PDibrKRQTYWczUyLo_mKEpzpASZp98SZsf1etvnv92v_B6OhtLA=s160-c-k-c0x00ffffff-no-rj"
   },
   {
     "uname": "hankschannel",
-    "name": "hankschannel",
-    "subs": null,
-    "numOfVid": null,
-    "tag": [],
+    "name": "Hank Greenneuralnets",
+    "subs": "2.82M",
+    "numOfVid": "1.1K",
+    "tag": ["science", "education", "AI"],
     "url": "https://www.youtube.com/@hankschannel",
-    "pfp": null
+    "pfp": "https://yt3.googleusercontent.com/BnlIAtp0b4_Q2WhiY7bbw6amE08F1ZxAej3Gm8ZDTgZFzphBdJH7LFfNfrUpNRxFrOZ34pTK=s160-c-k-c0x00ffffff-no-rj"
   },
   {
     "uname": "cneuralnetwork",
-    "name": "cneuralnetwork",
-    "subs": null,
-    "numOfVid": null,
-    "tag": [],
+    "name": "neuralnets",
+    "subs": "2.24K",
+    "numOfVid": "25",
+    "tag": ["machine learning", "neural networks", "programming"],
     "url": "https://www.youtube.com/@cneuralnetwork",
-    "pfp": null
-  },
-  {
-    "uname": "dhruvrathee",
-    "name": "dhruvrathee",
-    "subs": null,
-    "numOfVid": null,
-    "tag": [],
-    "url": "https://www.youtube.com/@dhruvrathee",
-    "pfp": null
+    "pfp": "https://yt3.googleusercontent.com/SPADO17D7I6HJnRX9KoXvP9VYuEoZfQHO9Q_XwsB1t0ceMaL7-m9aZSE9z8dASzpEFRiYCjudg=s160-c-k-c0x00ffffff-no-rj"
   },
   {
     "uname": "Thinketh-",
-    "name": "Thinketh-",
-    "subs": null,
-    "numOfVid": null,
-    "tag": [],
+    "name": "Thinketh",
+    "subs": "2.64M",
+    "numOfVid": "376",
+    "tag": ["philosophy", "critical thinking", "education"],
     "url": "https://www.youtube.com/@Thinketh-",
-    "pfp": null
+    "pfp": "https://yt3.googleusercontent.com/3m3fy0riruXTWF7T-wpOicMBz0XCQZEEDQVPTGKtu-6NmRJDEUpnR1sosIsHLtQlpq7tvrcf4JQ=s160-c-k-c0x00ffffff-no-rj"
   },
   {
     "uname": "trippykitchen",
-    "name": "trippykitchen",
-    "subs": null,
-    "numOfVid": null,
-    "tag": [],
+    "name": "Trippy Kitchen",
+    "subs": "3.86M",
+    "numOfVid": "3.86M",
+    "tag": ["cooking", "food", "shorts"],
     "url": "https://www.youtube.com/@trippykitchen",
-    "pfp": null
+    "pfp": "https://yt3.googleusercontent.com/7m-38BsEcILrtoBPwIxRqO1BKRHgSEBXZ1nL9PnuPsqLyYTpRNEYRwfWNA4WrLuVQ1r7X2q2CRo=s160-c-k-c0x00ffffff-no-rj"
   },
   {
     "uname": "HiteshCodeLab",
-    "name": "HiteshCodeLab",
-    "subs": null,
-    "numOfVid": null,
-    "tag": [],
+    "name": "Hitesh Choudhary",
+    "subs": "1.02M",
+    "numOfVid": "1.7K",
+    "tag": ["programming", "web development", "education"],
     "url": "https://www.youtube.com/@HiteshCodeLab",
-    "pfp": null
+    "pfp": "https://yt3.googleusercontent.com/arHIKjc6JTqF_b4QJKPHhQC_Jr8q0XfI7LEpJ0-VuiI0ZRz9xFNz94TWl4CLOcozLx-iAhV_=s160-c-k-c0x00ffffff-no-rj"
   },
   {
     "uname": "oomexperiments",
-    "name": "oomexperiments",
-    "subs": null,
-    "numOfVid": null,
-    "tag": [],
+    "name": "Out Of Mind Experiments",
+    "subs": "4.91M",
+    "numOfVid": "4.91M",
+    "tag": ["science experiments"],
     "url": "https://www.youtube.com/@oomexperiments",
-    "pfp": null
+    "pfp": "https://yt3.googleusercontent.com/xr9QKNeSDfH1uNMPj0SG7-ize3w1NoUYQLtiYjI2e9FZ48b8K23rL55fmXVfJLgF-usGpE1Y=s160-c-k-c0x00ffffff-no-rj"
   },
   {
     "uname": "VarunMayya",
-    "name": "VarunMayya",
-    "subs": null,
-    "numOfVid": null,
-    "tag": [],
+    "name": "Varun Mayya",
+    "subs": "1.01M",
+    "numOfVid": "1K",
+    "tag": ["entrepreneurship", "tech"],
     "url": "https://www.youtube.com/@VarunMayya",
-    "pfp": null
+    "pfp": "https://yt3.googleusercontent.com/ay7v4Wq0rVbojc_glLjXt4hZSiar_SjG13NQVX4ZLyO2N9VjKeY7FvpNatDFOaS6Z4oucci8=s160-c-k-c0x00ffffff-no-rj"
   },
   {
     "uname": "ElectroBOOM",
     "name": "ElectroBOOM",
-    "subs": null,
-    "numOfVid": null,
-    "tag": [],
+    "subs": "8.63M",
+    "numOfVid": "366",
+    "tag": ["electronics"],
     "url": "https://www.youtube.com/@ElectroBOOM",
-    "pfp": null
+    "pfp": "https://yt3.googleusercontent.com/ytc/AIdro_nnG7-mZVY0oCnbM1yY_pGC_uOA-AoWYlpvDI9kOW5JDFE=s160-c-k-c0x00ffffff-no-rj"
   },
   {
     "uname": "ThePrimeTimeagen",
-    "name": "ThePrimeTimeagen",
-    "subs": null,
-    "numOfVid": null,
-    "tag": [],
+    "name": "ThePrimeTime",
+    "subs": "977K",
+    "numOfVid": "1.5K",
+    "tag": ["programming", "software engineering", "career"],
     "url": "https://www.youtube.com/@ThePrimeTimeagen",
-    "pfp": null
+    "pfp": "https://yt3.googleusercontent.com/ytc/AIdro_k7J8-LWCa5QLDnY3x9kaArgJoSSMory4hgkYSBOFgvEg=s160-c-k-c0x00ffffff-no-rj"
   },
   {
     "uname": "ramxcodes",
-    "name": "ramxcodes",
-    "subs": null,
-    "numOfVid": null,
-    "tag": [],
+    "name": "Ram",
+    "subs": "4.1K",
+    "numOfVid": "34",
+    "tag": ["programming", "coding tips", "education"],
     "url": "https://www.youtube.com/@ramxcodes",
-    "pfp": null
+    "pfp": "https://yt3.googleusercontent.com/kwILg-z1WlskuuYYjAzH7TIcT3BYugD62RiP-27r1wG_qZRY45RobQBxFiZOnICzwesS7V8Xcw=s160-c-k-c0x00ffffff-no-rj"
   },
   {
     "uname": "NeonMan",
-    "name": "NeonMan",
-    "subs": null,
-    "numOfVid": null,
-    "tag": [],
+    "name": "Neon Man",
+    "subs": "2.41M",
+    "numOfVid": "1.9K",
+    "tag": ["news", "entertainment"],
     "url": "https://www.youtube.com/@NeonMan",
-    "pfp": null
+    "pfp": "https://yt3.googleusercontent.com/ytc/AIdro_krCPYreUvev9n1pKIlH3NfBQEm6e1svUyrSZ1deosAE7g=s160-c-k-c0x00ffffff-no-rj"
   },
   {
     "uname": "mangeshshindeshorts",
-    "name": "mangeshshindeshorts",
-    "subs": null,
-    "numOfVid": null,
-    "tag": [],
+    "name": "Mangesh Shinde Shorts",
+    "subs": "1.24M",
+    "numOfVid": "752",
+    "tag": ["bussiness stories", "shorts"],
     "url": "https://www.youtube.com/@mangeshshindeshorts",
-    "pfp": null
+    "pfp": "https://yt3.googleusercontent.com/gzFoGTlKuaPkKmjM33n6y5GH2WneyuEAvGXRzxILzfgqhQRBoxqtN90M_7-l3JueVc_Za-wB_rE=s160-c-k-c0x00ffffff-no-rj"
   },
   {
-    "uname": "Shivanshu.Agrawal",
-    "name": "Shivanshu.Agrawal",
-    "subs": null,
-    "numOfVid": null,
-    "tag": [],
-    "url": "https://www.youtube.com/@Shivanshu.Agrawal",
-    "pfp": null
-  },
-  {
-    "uname": "Tsoding",
-    "name": "Tsoding",
-    "subs": null,
-    "numOfVid": null,
-    "tag": [],
-    "url": "https://www.youtube.com/@Tsoding",
-    "pfp": null
-  },
-  {
-    "uname": "talkfootballhd",
-    "name": "talkfootballhd",
-    "subs": null,
-    "numOfVid": null,
-    "tag": [],
-    "url": "https://www.youtube.com/@talkfootballhd",
-    "pfp": null
-  },
-  {
-    "uname": "Markaroni",
-    "name": "Markaroni",
-    "subs": null,
-    "numOfVid": null,
-    "tag": [],
-    "url": "https://www.youtube.com/@Markaroni",
-    "pfp": null
-  },
-  {
-    "uname": "chaiaurcode",
-    "name": "chaiaurcode",
-    "subs": null,
-    "numOfVid": null,
-    "tag": [],
-    "url": "https://www.youtube.com/@chaiaurcode",
-    "pfp": null
-  },
-  {
-    "uname": "harkirat1",
-    "name": "harkirat1",
-    "subs": null,
-    "numOfVid": null,
-    "tag": [],
-    "url": "https://www.youtube.com/@harkirat1",
-    "pfp": null
-  },
-  {
-    "uname": "CleoAbram",
-    "name": "CleoAbram",
-    "subs": null,
-    "numOfVid": null,
-    "tag": [],
-    "url": "https://www.youtube.com/@CleoAbram",
-    "pfp": null
+    "uname": "dhruvrathee",
+    "name": "Dhruv Rathee",
+    "subs": "30.5M",
+    "numOfVid": "717",
+    "tag": ["education", "current affairs"],
+    "url": "https://www.youtube.com/@dhruvrathee",
+    "pfp": "https://yt3.googleusercontent.com/ATJuCH36wHPiFwumVBm423ouLVGQtq2pkPMOlSCclqqXErazOWyl4n07MRmbFnSJTL5P02Fq=s160-c-k-c0x00ffffff-no-rj"
   },
   {
     "uname": "LinusTechTips",
     "name": "Linus Tech Tips",
-    "subs": null,
-    "numOfVid": null,
-    "tag": [],
+    "subs": "16.7M",
+    "numOfVid": "7K",
+    "tag": ["technology", "hardware", "reviews"],
     "url": "https://www.youtube.com/@LinusTechTips",
-    "pfp": null
+    "pfp": "https://yt3.googleusercontent.com/gnvYLhXy8FAlPXZ2RTrkrgj-5kyt0vdE2FUGVOiKGdEZIa-wN5A-7nwZBlWJLzUMmoh1NWAU=s160-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "uname": "Shivanshu.Agrawal",
+    "name": "Shivanshu Agrawal",
+    "subs": "1.79M",
+    "numOfVid": "322",
+    "tag": ["bussiness case studies"],
+    "url": "https://www.youtube.com/@Shivanshu.Agrawal",
+    "pfp": "https://yt3.googleusercontent.com/XiLMw-52SS9NYuIB7CpUG8A75tahD783323deqfJ5N773h_v28YecrKEadpVQFFNKOPGWlNR4Q=s160-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "uname": "Tsoding",
+    "name": "Tsoding",
+    "subs": "61.4K",
+    "numOfVid": "47",
+    "tag": ["low level programming", "live coding", "computer science"],
+    "url": "https://www.youtube.com/@Tsoding",
+    "pfp": "https://yt3.googleusercontent.com/ytc/AIdro_nHdHYxeYUuJWppI422AbnNjAzF1Z-4pNO3-LEoDxT1tA=s160-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "uname": "talkfootballhd",
+    "name": "Talk Football HD",
+    "subs": "524K",
+    "numOfVid": "3.5K",
+    "tag": ["football", "analysis"],
+    "url": "https://www.youtube.com/@talkfootballhd",
+    "pfp": "https://yt3.googleusercontent.com/F46He-L2lKBefAr0IIF4lU-YuVV73MNRxLQUwPc_3rVfkIPTByhhCJ9NrWYGOjx1VpNQryPBPg=s160-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "uname": "Markaroni",
+    "name": "Markaroni",
+    "subs": "580K",
+    "numOfVid": "887",
+    "tag": ["football", "comedy"],
+    "url": "https://www.youtube.com/@Markaroni",
+    "pfp": "https://yt3.googleusercontent.com/AZRMd3lMG-ZTR_fdcRfjhLUI4vlPhvgktnB-yYCMvpkN2Jhj_Wa3Wq1MEb_9-q_TtnzYk3IlVA=s160-c-k-c0x00ffffff-no-rj"
   },
   {
     "uname": "Mrwhosetheboss",
     "name": "Mrwhosetheboss",
-    "subs": null,
-    "numOfVid": null,
-    "tag": [],
+    "subs": "22M",
+    "numOfVid": "1.8K",
+    "tag": ["technology", "gadgets", "reviews"],
     "url": "https://www.youtube.com/@Mrwhosetheboss",
-    "pfp": null
+    "pfp": "https://yt3.googleusercontent.com/a_1U9tYmozHPhZhsLiqqQ_XcYbhlmG_X1fsTdBWAHBjLmRN0haiv1xa_owiit7p8xyKDlMF1LXw=s160-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "uname": "chaiaurcode",
+    "name": "Chai aur Code",
+    "subs": "802K",
+    "numOfVid": "693",
+    "tag": ["programming", "web development", "education"],
+    "url": "https://www.youtube.com/@chaiaurcode",
+    "pfp": "https://yt3.googleusercontent.com/6tLBV-DRVemxhmanuezR5HkHshX2g7Y46Rq8cysyO1V-nd2SaQ2Fi8cdgVM-n6v_8XZ5BEimxXI=s160-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "uname": "harkirat1",
+    "name": "Harkirat Singh",
+    "subs": "588K",
+    "numOfVid": "334",
+    "tag": ["programming", "carrer"],
+    "url": "https://www.youtube.com/@harkirat1",
+    "pfp": "https://yt3.googleusercontent.com/C25u3DcSguL-wd3GaO110Q1fyO5ClTraTjtF72kJhZtpQwuAv3zLmb7K-ZLJecQQJBVvP1McmA=s160-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "uname": "CleoAbram",
+    "name": "Cleo Abram",
+    "subs": "7.11M",
+    "numOfVid": "451",
+    "tag": ["science", "technology", "explainer"],
+    "url": "https://www.youtube.com/@CleoAbram",
+    "pfp": "https://yt3.googleusercontent.com/RdjombbmvvGQGTokXHgVRF7qijHDLcnXs7h4S6N0oOua-veEap9RO7htFE30v7xnWDM1GUlCmI4=s160-c-k-c0x00ffffff-no-rj"
   },
   {
     "uname": "zackdfilms",
-    "name": "zackdfilms",
-    "subs": null,
-    "numOfVid": null,
-    "tag": [],
+    "name": "Zack D. Films",
+    "subs": "24.7M",
+    "numOfVid": "2.6K",
+    "tag": ["facts", "shorts", "education"],
     "url": "https://www.youtube.com/@zackdfilms",
-    "pfp": null
+    "pfp": "https://yt3.googleusercontent.com/BmuAho1g50N6CbZc-OP3ievIbXopecRp5xxYwUWEEPNpVaa0afIZn8UoQCYxQQpEDQ5LabHDgg=s160-c-k-c0x00ffffff-no-rj"
   },
   {
     "uname": "PalakPayalvlogs",
-    "name": "PalakPayalvlogs",
-    "subs": null,
-    "numOfVid": null,
-    "tag": [],
+    "name": " Palak Payal vlogs",
+    "subs": "58",
+    "numOfVid": "22",
+    "tag": ["vlogs", "lifestyle"],
     "url": "https://www.youtube.com/@PalakPayalvlogs",
-    "pfp": null
+    "pfp": "https://yt3.googleusercontent.com/kLLjpWKkmgirAEIStQPuMhHSoSLCvjzaI0_xkCYYL1cViV2CUE2P7_FStEriavnjeZ4w2Ya5=s160-c-k-c0x00ffffff-no-rj"
   },
   {
     "uname": "LabourLawAdvisor",
-    "name": "LabourLawAdvisor",
-    "subs": null,
-    "numOfVid": null,
-    "tag": [],
+    "name": "Labour Law Advisor",
+    "subs": "5.4M",
+    "numOfVid": "1.9K",
+    "tag": ["finance", "law", "consumer education"],
     "url": "https://www.youtube.com/@LabourLawAdvisor",
-    "pfp": null
+    "pfp": "https://yt3.googleusercontent.com/1njlOeLwAC7FnKj6LBs0a-Vnx09DkMYHeUc-rD2PcnNwO9weSwoiqvPUaaXimelx_zkd4wfl=s160-c-k-c0x00ffffff-no-rj"
   }
 ]
