@@ -1,7 +1,6 @@
 import { useState } from "react";
 import { Route, Routes } from "react-router-dom";
 
-
 import Header from "./components/smallcom/Header";
 import Navbar from "./components/smallcom/Navbar";
 import Home from "./components/Pages/Home";
@@ -11,7 +10,7 @@ import Playlist from "./components/Pages/Playlist";
 function App() {
   return (
     <>
-      <div className="">
+      <div className="w-full max-w-7xl mx-auto">
         <Header />
         <Navbar />
         <Routes>

@@ -13,8 +13,10 @@ const Home = () => {
   );
   return (
     <>
-      <div className="container mx-auto px-50 py-8">
-        <SearchElm setQuery={setQuery} />
+      <div>
+        <div className="">
+          <SearchElm setQuery={setQuery} />
+        </div>
 
         <div className="flex flex-wrap gap-4 w-full justify-center">
           {filteredData.map((e, index) => {

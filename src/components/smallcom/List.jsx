@@ -4,7 +4,7 @@ import { ExternalLink, Trash2, Youtube } from "lucide-react";
 const List = ({ title, channelName, views, thumbnail, url }) => {
   return (
     <div
-      className="w-full max-w-sm bg-white border-4 border-black p-4 flex flex-col items-center text-center shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] hover:translate-y-1 hover:shadow-none transition-all duration-300 group cursor-pointer m-5"
+      className=" max-w-sm bg-white border-4 border-black p-4 flex flex-col items-center text-center shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] hover:translate-y-1 hover:shadow-none transition-all duration-300 group cursor-pointer w-90 m-4"
       onClick={() => window.open(url, "_blank")}
     >
       <div className="w-full aspect-video border-2 border-black mb-5 relative overflow-hidden bg-zinc-100 group-hover:border-black">

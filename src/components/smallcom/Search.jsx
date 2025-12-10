@@ -11,7 +11,7 @@ const SearchElm = ({ setQuery }) => {
   };
 
   return (
-    <div className="max-w-md relative group w-full m-8">
+    <div className="max-w-md relative group w-full ml-12 mb-5 mt-5">
       <input
         type="text"
         placeholder="SEARCH STACK..."
