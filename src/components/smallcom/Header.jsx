@@ -42,7 +42,13 @@ const Header = () => {
             <div className="absolute -inset-2 bg-gray-100 skew-y-1 rounded-sm -z-10 group-hover:bg-blue-100 transition-colors border border-transparent group-hover:border-black/10"></div>
             <p className="text-lg md:text-xl font-bold font-mono text-gray-800 flex items-center gap-3 justify-center">
               <MessageSquareDashed className="hidden md:block" size={20} />
-              "Yoo guys this is Devster's fav Youtube channels"
+              <a href="https://x.com/devsterxyz" target="_blank">
+                Yoo guys this is{" "}
+                <spam className="text-red-500 hover:text-blue-500">
+                  Devster's
+                </spam>{" "}
+                fav Youtube channels
+              </a>
             </p>
           </div>
         </div>

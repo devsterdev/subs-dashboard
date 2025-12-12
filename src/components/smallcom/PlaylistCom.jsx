@@ -5,7 +5,7 @@ const PlaylistCom = ({ index, title, author, videos, link }) => {
   return (
     <div className="w-full max-w-sm group cursor-pointer mb-10">
       <div className="w-1/3 h-8 bg-black rounded-t-lg border-x-4 border-t-4 border-black relative top-1 ml-4 z-0"></div>
-      <div className="bg-white border-4 border-black rounded-lg rounded-tl-none p-4 shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] hover:translate-y-[-4px] transition-transform relative z-10 min-h-[180px] flex flex-col justify-between h-65">
+      <div className="bg-white border-4 border-black rounded-lg rounded-tl-none p-4 shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] hover:translate-y-[-10px] transition-transform relative z-10 min-h-[180px] flex flex-col justify-between h-65">
         <div className="flex justify-between items-start border-b-4 border-black pb-2 mb-2">
           <div className="flex items-center gap-2">
             <FolderOpen className="w-5 h-5" />
