@@ -1,27 +1,27 @@
 [
   {
-    "title": "Complete C++ Placement DSA Course",
-    "author": "CodeHelp - by Babbar",
+    "title": "Mind Field : Season 1",
+    "author": "Vsauce",
+    "videos": "8",
+    "link": "https://youtube.com/playlist?list=PLZRRxQcaEjA4qyEuYfAMCazlL0vQDkIj2&si=DjTnPVinyD9QL-iI"
+  },
+  {
+    "title": "Music taste",
+    "author": "Devster",
+    "videos": "26",
+    "link": "https://youtube.com/playlist?list=PLytt5JQfBppY3qlMIGfHyQBqFFjv7xBGD&si=SAF6UF10u59efo7E"
+  },
+  {
+    "title": "background music",
+    "author": "Devter",
     "videos": "24",
-    "link": "https://youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA"
+    "link": "https://youtube.com/playlist?list=PLytt5JQfBppaEGoK_BXwnMK5VnQ1n2Dos&si=JszPzPALd6cy3L2E"
   },
   {
-    "title": "DSA Supreme 2.0 - Data Structures & Algorithms",
-    "author": "CodeHelp - by Babbar",
-    "videos": "450",
-    "link": "https://youtube.com/playlist?list=PLDzeHZWIZsTrtZm5Y1iOyK0pTjZL6c-xC"
-  },
-  {
-    "title": "Java + DSA + System Design Course",
-    "author": "Kunal Kushwaha",
-    "videos": "250",
-    "link": "https://youtube.com/playlist?list=PL9gnSGHSqcno2GSoMSMZ3gYmvYhWbVn4k"
-  },
-  {
-    "title": "Python for Beginners - Full Course",
-    "author": "Programming with Mosh",
-    "videos": "36",
-    "link": "https://youtube.com/playlist?list=PLTjRvDozrdlxj5wgHbpZSCqtxvI0iM3hB"
+    "title": "Indian Sign Language 101",
+    "author": "Pragya Gupta",
+    "videos": "13",
+    "link": "https://youtube.com/playlist?list=PLxYMaKXKMMcMgg4f47WkG7AM0bb3AyjTi&si=nEF_on9eaHUMtIkW"
   },
   {
     "title": "Operating System - Complete Playlist",
@@ -30,10 +30,10 @@
     "link": "https://youtube.com/playlist?list=PLxCzCOWd7aiH25Z2I22iQxKp-QlrDd5qi"
   },
   {
-    "title": "DBMS Full Course",
-    "author": "Jenny's Lectures CS/IT",
-    "videos": "52",
-    "link": "https://youtube.com/playlist?list=PLdo5W4Nhv31bbK78hWbO2dWlIA0J3sGgS"
+    "title": "Space videos",
+    "author": "AstroKobi",
+    "videos": "19",
+    "link": "https://youtube.com/playlist?list=PLgGrt6RgGxHMwxXOvDQP2lcKqkJ6OfH6K&si=faTW0sYJwQieXQS5"
   },
   {
     "title": "System Design for Beginners",
@@ -42,9 +42,33 @@
     "link": "https://youtube.com/playlist?list=PLTCrU9sGyburBw9wNOHebv9SjlE4Elv5a"
   },
   {
-    "title": "Aptitude Preparation for Placements",
-    "author": "Placement Series",
-    "videos": "120",
-    "link": "https://youtube.com/playlist?list=PLVlQHNRLflP8F6EVW22COOUuEDcNY4m6j"
+    "title": "CSS Art",
+    "author": "Coding Artist",
+    "videos": "69",
+    "link": "https://youtube.com/playlist?list=PLNCevxogE3fjFTYBst-r1gvlCMsUSzjEU&si=wETSN0CI3QTaX9P_"
+  },
+  {
+    "title": "warikoo Personal Finance",
+    "author": "warikoo",
+    "videos": "289",
+    "link": "https://youtube.com/playlist?list=PLLbfvOX935JGo7PWixihas8kneskv1uU9&si=zVHSZUZz4y8SQec1"
+  },
+  {
+    "title": "MINECRAFT",
+    "author": "BeastBoyShub",
+    "videos": "35",
+    "link": "https://youtube.com/playlist?list=PLe7VjvWOHpLkF5-uJkof2NIJb9KFT132Z&si=ZD3vcr7QJDxH6CSU"
+  },
+  {
+    "title": "Physics",
+    "author": "Veritasium",
+    "videos": "37",
+    "link": "https://youtube.com/playlist?list=PLkahZjV5wKe9q3K-nk82kVD_pNfPZ140i&si=H1uOVV6eMwyXftGQ"
+  },
+  {
+    "title": "Top Theory Speedrun",
+    "author": "Daniel Naroditskysium",
+    "videos": "81",
+    "link": "https://youtube.com/playlist?list=PLT1F2nOxLHOc80pNT3XH1xUDyeom46R3X&si=18CaITUcDrA9m0o4"
   }
 ]
