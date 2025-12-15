@@ -9,7 +9,7 @@ const List = ({ title, channelName, views, thumbnail, url }) => {
     >
       <div className="w-full aspect-video border-2 border-black mb-5 relative overflow-hidden bg-zinc-100 group-hover:border-black">
         <img
-          src="https://img.youtube.com/vi/u9hauSrihYQ/maxresdefault.jpg"
+          src={thumbnail}
           alt='Why do we ask questions? Michael "Vsauce" Stevens at TEDxVienna'
           className="w-full h-full object-cover grayscale group-hover:grayscale-0 transition-all duration-300"
         />
@@ -47,7 +47,7 @@ const List = ({ title, channelName, views, thumbnail, url }) => {
       </div>
 
       <a
-        href="https://youtu.be/u9hauSrihYQ?si=3LQGcxUqeEg1SZyQ"
+        href={url}
         target="_blank"
         rel="noopener noreferrer"
         className="mt-auto w-full block bg-black text-white font-black text-sm py-4 uppercase hover:bg-white hover:text-black border-2 border-black transition-colors text-center"

@@ -44,9 +44,9 @@ const Header = () => {
               <MessageSquareDashed className="hidden md:block" size={20} />
               <a href="https://x.com/devsterxyz" target="_blank">
                 Yoo guys this is{" "}
-                <spam className="text-red-500 hover:text-blue-500">
+                <span className="text-red-500 hover:text-blue-500">
                   Devster's
-                </spam>{" "}
+                </span>{" "}
                 fav Youtube channels
               </a>
             </p>

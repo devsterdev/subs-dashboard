@@ -547,5 +547,23 @@
     "tag": ["finance", "law", "consumer education"],
     "url": "https://www.youtube.com/@LabourLawAdvisor",
     "pfp": "https://yt3.googleusercontent.com/1njlOeLwAC7FnKj6LBs0a-Vnx09DkMYHeUc-rD2PcnNwO9weSwoiqvPUaaXimelx_zkd4wfl=s160-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "uname": "NeetCodeIO",
+    "name": "NeetCodeIO",
+    "subs": "5.325K",
+    "numOfVid": "700",
+    "tag": ["programming", "data structures"],
+    "url": "https://www.youtube.com/@NeetCodeIO",
+    "pfp": "https://yt3.googleusercontent.com/WeETyMBPRtDutWCEdhq0qVtpBkYDZQylyncynna6SsTzvjDyeqzjbO7KUcbq2WPPqZDOUJtHsw=s160-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "uname": "BhargavLearn",
+    "name": "BhargavLearns",
+    "subs": "510",
+    "numOfVid": "68",
+    "tag": ["programming", "vlog"],
+    "url": "https://www.youtube.com/@BhargavLearns",
+    "pfp": "https://yt3.googleusercontent.com/rsISpUP8P4me8W3s3k3ICfO2p7Ky1M6X3Ma3zmy3cZ9WMp7XiYltPmuvbvk0JMhm-IWc9PbhAng=s160-c-k-c0x00ffffff-no-rj"
   }
 ]
